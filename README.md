@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on: **Software Development & Web Development Projects**  
 - 💬 Ask me about: **Tech, Coding, Automation, and Game Development**  
 - 📫 Reach me at: **[xenext6@gmail.com](mailto:xenext6@gmail.com)**  
-- ⚡ Fun fact: *I love blending creativity with code to bring interactive ideas to life!*  
+- ⚡ Fun fact: *I’m always curious about exploring new technologies and discovering how they integrate to build smarter solutions.*  
 
 ---
 
